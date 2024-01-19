@@ -71,7 +71,7 @@ document.addEventListener('alpine:init', () => {
         },
         home_section_three_card3:
         {
-            image: '/wildlife22/Images/home card 3.jpg',
+            image: '/wildlife22/Images/home card .jpg',
             title: 'Mr Cool on Wild',
             body: 'Males and females have horns, unlike many mammals in the antelope family. This particular type of animal covers 17 different species, which include (but are not limited )',
         },
